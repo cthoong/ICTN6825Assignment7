@@ -1,7 +1,7 @@
 # ICTN6825Assignment7
 Assignment 7 Create a page that uses video
 
-Specifications To create the personal page, you can copy the index.html file from the attached zip folder to the personal folder. Then, you can delete the content from the section and modify the URLs on the page as necessary.
+<ul>Specifications To create the personal page, you can copy the index.html file from the attached zip folder to the personal folder. Then, you can delete the content from the section and modify the URLs on the page as necessary.</ul>
 Modify the horizontal navigation menu so it indicates that the personal page is the current page.
 Modify the vertical navigation menu so it provides the links shown above. Use any names you want for the pages, but assume that they’re stored in the personal folder.
 Create a new style sheet named personal.css for the personal page, and copy the styles you need from the main.css file. Then, modify the link element for the style sheet in the personal/index.html file so it points to the correct style sheet.
